@@ -117,9 +117,11 @@ The model uses **12 features** organized into three categories:
 | Points | Logistic Reg | 0.691 | 0.766 | ✓ |
 | Points | XGBoost | 0.678 | 0.757 |  |
 | Rebounds | Logistic Reg | 0.667 | 0.727 | ✓ |
-| Rebounds | XGBoost | 0.643 | 0.686 | - |
-| Assists | Logistic Reg | 0.637 | 0.695 | ✓ |
-| Assists | XGBoost | 0.618 | 0.655 |  |
+| Rebounds | XGBoost | 0.643 | 0.686 |  |
+| Assists | Logistic Reg | 0.637 | 0.695 |  |
+| Assists | XGBoost | 0.618 | 0.655 | - |
+| Average | Logistic Reg | 0.665 | 0.729 | ✓ |
+| Average | XGBoost | 0.646 | 0.699 |  | 
 
 **Observations:**
 - Logistic Regression outperforms XGBoost overall  
