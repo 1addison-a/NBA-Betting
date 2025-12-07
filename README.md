@@ -134,8 +134,8 @@ The model uses **12 features** organized into three categories:
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
-cd <repo-directory>
+git clone https://github.com/1addison-a/NBA-Betting
+cd NBA-Betting/myProject
 
 # Install dependencies
 pip install -r requirements.txt
